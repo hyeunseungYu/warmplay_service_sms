@@ -1,0 +1,4 @@
+./api_data.json
+./geckodriver
+/venv
+/__pycache__
